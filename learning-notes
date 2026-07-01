@@ -1,0 +1,34 @@
+# Day 1 - Networking Basics
+
+Today I learned the basics of networking from TryHackMe.
+---
+
+ What I Learned
+
+ Networking
+Networking means connecting devices together so they can communicate and share data.
+
+---
+
+ IP Address
+An IP address is a unique address assigned to a device. It is used to send data to the correct device on a network.
+
+---
+
+MAC Address
+A MAC address is a unique hardware identifier for a device’s network interface. It is assigned by the manufacturer and can be spoofed (faked) in some cases.
+
+---
+
+ Ping
+Ping is a tool used to test connectivity between devices. It uses ICMP (Internet Control Message Protocol) to check if a device is reachable.
+
+---
+
+ My Understanding (in simple words)
+I understood that networking is about communication between devices, and each device has an identity like IP and MAC addresses.
+
+---
+
+Key Takeaway
+Even basic networking concepts are very important in cybersecurity because they help us understand how devices communicate and how attacks can happen.
